@@ -1,7 +1,7 @@
 Wanderlust – Customizable Travel Discovery Portal
 
-Overview
-Roamly is a travel website that enables users to explore and list travel destinations. It includes map-based navigation, search filters, and review systems with secure login and JWT authentication.
+Overview:-
+Wanderlust is a travel website that enables users to explore and list travel destinations. It includes map-based navigation, search filters, and review systems with secure login and JWT authentication.
 
  **Live Demo:** [https://major-project-qbd1.onrender.com](https://major-project-qbd1.onrender.com)
 
