@@ -23,5 +23,5 @@ Roamly is a travel website that enables users to explore and list travel destina
 
 ```bash
 git clone https://github.com/yourusername/roamly.git
-cd roamly
+cd wanderlust
 npm install
